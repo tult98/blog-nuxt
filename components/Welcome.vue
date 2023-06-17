@@ -1,3 +1,3 @@
 <template>
-  <p>Hello, this is home page</p>
+  <p class="text-3xl font-bold">Hello, this is home page</p>
 </template>
